@@ -1,0 +1,11 @@
+{
+  "order_id": "D-104",
+  "recipient": {
+    "name": "Sam Lee",
+    "address": {"city": "Baku", "street": "Garden Street 18"}
+  },
+  "items": [
+    {"name": "Notebook", "quantity": 3},
+    {"name": "Marker", "quantity": 2}
+  ]
+}

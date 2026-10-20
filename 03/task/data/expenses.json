@@ -1,0 +1,8 @@
+{
+  "budget": 1000,
+  "expenses": [
+    {"category": "Food", "amount": 250},
+    {"category": "Transport", "amount": 80},
+    {"category": "Food", "amount": 120}
+  ]
+}
